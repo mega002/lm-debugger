@@ -1,0 +1,6 @@
+{
+  "server_ip": "SERVER_IP",
+  "server_port": 8001,
+  "streamlit_ip": "STREAMLIT_IP",
+  "streamlit_port": 8501
+}
